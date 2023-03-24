@@ -13,9 +13,5 @@ It enable to explore ray-casting and the goal is to make a dynamic view inside a
 
 • **<a href="https://lodev.org/cgtutor/raycasting4.html" target="_blank">Raycasting IV: Directional Sprites, Doors, And More</a>** <br>
 
-
-
-
-
- 
-
+## How to run the program ? ... and take a look at this beauty :)
+*./cub3d * . cub*
